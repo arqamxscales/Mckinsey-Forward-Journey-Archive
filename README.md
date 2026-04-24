@@ -1,27 +1,37 @@
-<img width="211" height="214" alt="Screenshot 2026-04-24 at 2 14 23 PM" src="https://github.com/user-attachments/assets/167a21f0-800f-4427-90fa-dd985e7b7ae6" />
-<img width="900" height="400" alt="2021-11-28-132646521-McKinsey-opens-free-Forward-learning-program-for-Middle-East-youth" src="https://github.com/user-attachments/assets/af78a0b0-56e2-4cd1-8be8-47c523bc7e69" />
-<img width="380" height="132" alt="images" src="https://github.com/user-attachments/assets/35df9c9c-99b9-4ce6-bcaa-1e6a188209eb" />
+# McKinsey Forward: Future of Work Journey 🚀
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Program-McKinsey%20Forward-blue?style=for-the-badge&logo=mckinsey" />
+  <img src="https://img.shields.io/badge/Cohort-2026-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-In--Progress-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Leadership%20%26%20AI-orange?style=for-the-badge" />
+</p>
 
+## 📌 Program Overview
+A 10-week high-intensity journey by **McKinsey & Company** designed to equip young professionals with the "Future of Work" dual-skill set: leadership soft skills and digital fluency.
 
-# Mckinsey-Forward-Journey-Archive
-
-# McKinsey Forward Learning Journey
-
-A centralized repository for documenting my progress, insights, and application of the **McKinsey Forward** program. 
-
-## 🎯 Program Objective
-McKinsey Forward is a transformative learning journey focused on the "10 Future of Work" skills. My goal is to integrate these leadership and digital skills into my current role as a startup co-founder and developer.
-
-## 🧠 Key Learning Pillars
-1. **Activate Learning:** Developing personal learning habits and setting intentional growth goals.
-2. **Strengthen Adaptability:** Building resilience and awareness of mindset.
-3. **Reinforce with Purpose:** Linking actions to personal and organizational goals.
-
-## 📂 Repository Contents
-- **Notes:** Structured summaries of course modules.
-- **Frameworks:** Personal applications of McKinsey's problem-solving and communication tools.
-- **Reflections:** Monthly logs on how these soft skills are improving my technical leadership.
+> "The ability to learn is a skill. The willingness to learn is a choice."
 
 ---
-*Follow my journey as I transition from technical expertise to holistic leadership.*
+
+## 📂 Curriculum & Navigation
+
+| Module | Status | Key Deliverables |
+| :--- | :---: | :--- |
+| [00. Onboarding](./00-Onboarding) | ✅ | Skills Reflection & Learning Plan |
+| [01. Adaptability & Resilience](./01-Adaptability) | 🏃 | 3 Drivers of Adaptability |
+| [02. Problem Solving](./02-Problem-Solving) | ⏳ | Traffic Case Study & Structured Thinking |
+| [03. Communication](./03-Communication) | ⏳ | Influential Storytelling |
+| [04. Relationships](./04-Relationships) | ⏳ | Conflict Resolution Frameworks |
+| [05. Digital & AI](./05-Digital-AI) | ⏳ | Generative AI & Digital Citizenship |
+
+---
+
+## 🎯 Strategic Application at Quantum Park
+As a Co-Founder, I am synthesizing these frameworks to:
+* **Optimize Micro-Internships:** Applying *Structured Problem Solving* to student onboarding.
+* **Scale Agentic AI:** Utilizing *Digital Essentials* to ensure responsible AI governance.
+* **Leadership:** Using *Adaptability* frameworks to navigate the startup pivot cycles.
+
+---
+<p align="center"><i>Documenting my transition from Technical Expert to Holistic Leader.</i></p>
