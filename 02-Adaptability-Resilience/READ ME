@@ -1,10 +1,44 @@
-# 02. Adaptability & Resilience
-*Focus: How to thrive in uncertainty.*
+# 🧠 Master Module 01: Adaptability & Resilience
 
-### 🗝️ Core Frameworks
-1. **Activate Learning:** High-velocity learning habits.
-2. **Strengthen Resilience:** Managing energy and emotional triggers.
-3. **Reinforce Purpose:** Aligning daily tasks with long-term vision.
+This folder contains a comprehensive breakdown of the 32 lessons within the McKinsey Forward Adaptability & Resilience module. It documents my journey from a Fixed to a Growth mindset, focusing on sustainable high performance.
 
-### 📝 Reflections
-*(Notes will be added as I progress through the module)*
+## 📌 Module Roadmap
+The course is built on the **Three Drivers of Adaptability**:
+1. **Activate Learning:** Building high-velocity learning habits.
+2. **Strengthen Resilience:** Managing energy and emotional well-being.
+3. **Reinforce with Purpose:** Aligning work with personal and organizational goals.
+
+---
+
+## 🛠️ Exercises & Worksheets
+| Activity Name | Type | Description | Link |
+| :--- | :--- | :--- | :---: |
+| Learning Intention | Worksheet | Defining the 'Why' for this program | [View](./Worksheets/learning-intention.md) |
+| The 3 Drivers Audit | Assessment | Initial baseline of my adaptability | [View](./Worksheets/drivers-audit.md) |
+| Internal Triggers Log | Activity | Identifying emotional stressors in startup life | [View](./Activities/triggers-log.md) |
+| Learning Sprint | Project | A 15-minute daily habit implementation | [View](./Activities/learning-sprint.md) |
+
+---
+
+## 🧠 Key Topic Breakdowns
+
+### 01. Activate Learning
+- **Mindset Shifts:** Moving from "I can't do this" to "I can't do this *yet*."
+- **Feedback Loops:** Using the "Plus/Delta" model to evaluate startup pivots at Quantum Park.
+
+### 02. Strengthen Resilience
+- **Energy Management:** Categorizing tasks by Energy Drain vs. Energy Gain.
+- **The Resilience Scale:** Tracking my ability to bounce back from technical failures or rejected proposals.
+
+### 03. Reinforce with Purpose
+- **The Purpose Compass:** Aligning my C++ development and AI research with the mission of improving education-to-work pipelines in Pakistan.
+
+---
+
+## ✅ Quizzes & Assessments
+* **Mid-Module Check-in:** Passed (100%)
+* **Final Module Assessment:** [Summary of results here]
+* **Self-Reflection Survey (Post-Module):** [Key changes in behavior]
+
+---
+[⬅️ Back to Master Repo](../README.md)
