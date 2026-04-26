@@ -1,3 +1,4 @@
+<img width="1001" height="361" alt="Screenshot 2026-04-26 at 4 30 29 PM" src="https://github.com/user-attachments/assets/e28d59ef-273b-4985-b59c-d7697e1fa84a" />
 # McKinsey Forward: Future of Work Journey 🚀
 
 <p align="center">
